@@ -4,6 +4,9 @@
 ### Overview
 The COVID-19 pandemic still having devastating effect on the health and well-being of the global population. A critical step in the fight against COVID-19 is effective screening of infected patients, with one of the key screening approaches being radiology examination using chest radiography. Deep-learning artificial intelligent (AI) methods have the potential to help improve diagnostic efficiency and accuracy for reading portable CXRs.
 
+### Disclaimer
+This repository is only POC implementation of the idea discussed above. Needs more solid clinical trials to back this idea and approvals from regulatory bodies to be used in production.
+
 
 
 ### Implementation details
