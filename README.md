@@ -19,11 +19,13 @@ The COVID-19 pandemic still having devastating effect on the health and well-bei
 ### Results
 | Model | Metrics(Accuracy) | Epochs |
 | ------ | ------ | ------ |
-| Resnet18 | 96 | 8 |
+| Resnet18 | 96.14% | 8 |
 
 #### Confusion Matrix
+![Alt text](https://github.com/gurucharanmk/COVID-19_chest-xray_classifier/blob/main/images/confusion_matrix.png  )
 
 #### Inference
+![Alt text](https://github.com/gurucharanmk/COVID-19_chest-xray_classifier/blob/main/images/results.png  )
 
 ## License
 This project is licensed under the [MIT License](https://github.com/gurucharanmk/COVID-19_chest-xray_classifier/blob/main/LICENSE)
